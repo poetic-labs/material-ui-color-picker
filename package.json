@@ -1,6 +1,6 @@
 {
   "name": "poetic-material-ui-color-picker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "<ColorInput> component for material-ui",
   "main": "lib/index.js",
   "scripts": {
